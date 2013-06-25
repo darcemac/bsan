@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+{% for post in paginator.posts %}
+
+<div class="post">
+
+	<div>
+
+		<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+
+		<div class="post-date">{{ post.date | date: "%A, %B %d, %Y" }}</div>
+
+		{{ post.content }}
+
+		<p class="comments-link">
+	      <a href='{{post.url}}#disqus_thread'>Comments</a>
+	    </p>
+	    <p class="f-like">
+	      <a class="addthis_button_facebook_like"></a>
+	    </p>
+
+	</div>
+
+</div>
+
+<div class="divider"></div>
+
+{% endfor %}
+
+<div class="pagination">
+	<ul>
+		{% if paginator.next_page %}
+		<li><a href="/page{{ paginator.next_page }}">Older Posts</a></li>{% endif %}
+		{% if paginator.previous_page %}
+		{% if paginator.previous_page == 1 %}<li><a href="/">Newer Posts</li></a>
+		{% else %}<li><a href="/page{{ paginator.previous_page }}">Newer Posts</a></li>{% endif %}
+		{% endif %}
+	</ul>
+</div>

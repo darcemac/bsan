@@ -1,0 +1,28 @@
+title: BSAN
+production_url : http://bsan.com.au
+
+author: Darcy
+twitter:
+github:
+
+flickr:
+  api_key: 2ab246dcc6541ac08fa07f23b8027f85
+
+paginate: 5
+
+permalink:   /:year/:month/:day/:title/
+
+safe:        false
+auto:        true
+server:      false
+server_port: 4000
+baseurl:    /
+
+source:      .
+destination: ./_site
+plugins:     ./_plugins
+
+future:      true
+lsi:         false
+pygments:    true
+markdown:    rdiscount
