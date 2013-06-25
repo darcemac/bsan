@@ -1,15 +1,4 @@
-# humanstxt.org/
-# The humans responsible & technology colophon
+User-agent: *
+Allow: /
 
-# TEAM
-
-    <name> Darcy McDonald / blueskyatnight.com.au <role> Web Designer/Developer
-
-# THANKS
-
-    <name> Darcy
-
-# TECHNOLOGY COLOPHON
-
-    HTML5, CSS3
-    Normalize.css, jQuery, Modernizr
+Sitemap: http://bsan.com/sitemap.xml
