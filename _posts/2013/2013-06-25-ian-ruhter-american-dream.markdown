@@ -16,10 +16,6 @@ This is a really sinteresting short film on an american photographer, Ian Ruhter
 Ian has built his own truck and is cruising
 across america with a huge custom made camera/darkroom in the back. He uses an oldschool technique of collodiol silver wetplates to capture images and its quite amazing the beautiful imagery that is produced.
 
-I imagine that they are even more impressive when viewing in the flesh and at full size.
-
-<iframe src="http://player.vimeo.com/video/39578584?byline=0" width="520" height="292" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-
 
 ![Ian Ruther](/images/posts/2013/ian-ruther/ir_1.jpg)
 
@@ -28,6 +24,8 @@ I imagine that they are even more impressive when viewing in the flesh and at fu
 ![Ian Ruther](/images/posts/2013/ian-ruther/ir_3.jpg)
 
 ![Ian Ruther](/images/posts/2013/ian-ruther/ir_4.jpg)
+
+<iframe src="http://player.vimeo.com/video/39578584?byline=0" width="520" height="292" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 
 [Ian Ruhter](http://ianruhter.tumblr.com/)
