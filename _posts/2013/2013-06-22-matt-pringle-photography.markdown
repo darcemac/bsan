@@ -12,7 +12,7 @@ keywords: "Matt Pringle, Photography, Minolta Autocord, Black and White, Pinhole
 excerpt: ""
 ---
 
-I discovered photographer, Matt Pringle while trying to find inspiration on Flickr for photos that had been taken using the Minolta Autocord.
+I discovered photographer, Matt Pringle while trying to find inspiration on Flickr for photos that had been taken with the Minolta Autocord TLR.
 
 I was really impressed and quite taken aback by his subject matter and choice of imagery. I really love the smooth tones and ghostly scenes of the photos
 taken with a pinhole camera, they are just fantastic, definately inspirational!
