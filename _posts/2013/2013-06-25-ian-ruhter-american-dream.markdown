@@ -11,10 +11,9 @@ keywords: "Ian Ruhter, Silver and Light, Wet Plate Collodion, Photography"
 
 ---
 
-This is a really sinteresting short film on an american photographer, Ian Ruhter.
+This is a really interesting short film based on an american photographer, Ian Ruhter. Ian has built his own truck and is cruising across america with a huge custom made camera/darkroom in the back.
 
-Ian has built his own truck and is cruising
-across america with a huge custom made camera/darkroom in the back. He uses an oldschool technique of collodiol silver wetplates to capture images and its quite amazing the beautiful imagery that is produced.
+He uses an oldschool technique of collodiol silver wetplates to capture images and its quite amazing the beautiful imagery that is produced.
 
 
 ![Ian Ruther](/images/posts/2013/ian-ruther/ir_1.jpg)
