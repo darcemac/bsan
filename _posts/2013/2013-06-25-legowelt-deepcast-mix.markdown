@@ -1,14 +1,10 @@
 ---
+published: true
 layout: post
-
 author: Darcy
-
 title: "Legowelt - Deepcast 093"
-
 description: "Legowelt, Deepcast 093"
-
 keywords: "Legowelt, Deepcast, 093, Techno, Detroit, House"
-
 ---
 
 Deep spacey electronica is something that Legowelt does with passion and excellance and this latest [Melbourne Deepcast](http://www.melbournedeepcast.net/) mix has it all!
@@ -20,3 +16,4 @@ Legowelt's Deepcast mix has a fantastic tracklist of classic Detroit Techno, Chi
 
 
 [legowelt](www.legowelt.com)
+

@@ -9,7 +9,6 @@ description: "Matt Pringle - Photography"
 
 keywords: "Matt Pringle, Photography, Minolta Autocord, Black and White, Pinhole, flickr"
 
-excerpt: ""
 ---
 
 I discovered photographer, Matt Pringle while trying to find inspiration on Flickr for photos that had been taken with the Minolta Autocord TLR.
