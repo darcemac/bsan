@@ -15,4 +15,4 @@ Legowelt's Deepcast mix has a fantastic tracklist of classic Detroit Techno, Chi
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F97520124&secret_token=s-5Uibz"></iframe>
 
 
-[legowelt](www.legowelt.com/)
+[legowelt](http://www.legowelt.com/)
