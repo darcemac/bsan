@@ -1,28 +1,67 @@
-title: BSAN
-production_url : http://bsan.com.au
+# Sitewide configuration settings. Set `title` to the site title, which
+# will be appended to the URL following {{page.title}} |
 
-author: Darcy
-twitter:
-github: darcemac
+title: BSAN
+auto: true
+server: false
+baseurl: /
+permalink: /:year/:month/:day/:title/
+markdown: rdiscount
+exclude:
+  - .gitignore
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+siteurl: 'http://bsan.com.au'
 
 flickr:
   api_key: 2ab246dcc6541ac08fa07f23b8027f85
 
 paginate: 5
 
-permalink:   /:year/:month/:day/:title/
-
 safe:        false
-auto:        true
-server:      false
 server_port: 4000
-baseurl:    /
 
 source:      .
 destination: ./_site
-plugins:     ./_plugins
 
 future:      true
 lsi:         false
 pygments:    true
-markdown:    rdiscount
+
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://bsan.com.au/'
+  relativeLinks: ''
+  media: 'media'
+  metadata:
+    _posts:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "blog"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "blog"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+    _posts/static:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
