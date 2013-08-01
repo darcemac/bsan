@@ -37,10 +37,15 @@ prose:
   media: 'images'
   metadata:
     _posts:
+      - name: "published"
+        field:
+          label: "Published"
+          element: "checkbox"
+          value: "true"
       - name: "layout"
         field:
           element: "hidden"
-          value: "blog"
+          value: "post"
       - name: "category"
         field:
           element: "multiselect"
@@ -51,8 +56,23 @@ prose:
               value: "artist"
             - name: "Event"
               value: "event"
+      - name: "genre"
+        field:
+          element: "multiselect"
+          label: "Add Genre"
+          placeholder: "Choose Genre"
+          options:
+            - name: "Acoustic"
+              value: "acoustic"
+            - name: "Rock"
+              value: "rock"
+            - name: "Blues"
+              value: "blues"
+            - name: "Jazz"
+              value: "jazz"
       - name: "title"
         field:
           element: "text"
           label: "Title"
           value: ""
+      - CURRENT_DATETIME:
