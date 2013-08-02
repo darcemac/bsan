@@ -32,8 +32,8 @@ lsi:         false
 pygments:    true
 
  prose:
-  rooturl: '_posts/2013'
-  siteurl: 'http://bsan.com.au'
+#  rooturl: '_posts/2013'
+#  siteurl: 'http://bsan.com.au'
 #  relativeLinks: ''
   media: 'images'
   metadata:
