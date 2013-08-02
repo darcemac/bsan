@@ -5,8 +5,8 @@ title: BSAN
 auto: true
 server: false
 baseurl: /
-permalink: /:year/:month/:day/:title/
-# permalink: pretty
+# permalink: /:year/:month/:day/:title/
+permalink: pretty
 markdown: rdiscount
 exclude:
   - .gitignore
@@ -39,11 +39,6 @@ prose:
       - name: "published"
         field:
           label: "Published"
-          element: "checkbox"
-          value: "true"
-      - name: "draft"
-        field:
-          label: "Draft"
           element: "checkbox"
           value: "true"
       - name: "layout"
