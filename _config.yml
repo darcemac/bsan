@@ -76,7 +76,7 @@ prose:
         field:
           element: "text"
           label: "Title"
-          value: ""
+          value: "A awesome Headline!"
       - name: "permalink"
         field:
           element: "text"
