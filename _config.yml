@@ -52,16 +52,6 @@ prose:
           element: "text"
           label: "Title"
           value: "Enter Title"
-      - name: "meta-title"
-        field:
-          element: "text"
-          label: "Meta Title"
-          value: ""
-      - name: "meta-description"
-        field:
-          element: "text"
-          label: "Meta Description" 
-          value: ""
       - name: "category"
         field:
           element: "multiselect"
