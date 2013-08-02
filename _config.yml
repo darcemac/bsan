@@ -32,38 +32,27 @@ lsi:         false
 pygments:    true
 
 prose:
-#  rooturl: "_posts"
   siteurl: "http://bsan.com.au"
-#  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: "images"
   metadata:
-    _posts/2013:
+    _posts:
       - name: "published"
         field:
           label: "Published"
           element: "checkbox"
           value: "true"
+      - name: "draft"
+        field:
+          label: "Draft"
+          element: "checkbox"
+          value: "true"
       - name: "layout"
         field:
-          element: "hidden"
+          label: "Layout"
+          element: "text"
           value: "post"
-      - name: "category"
+      - name: "title"
         field:
-          element: "multiselect"
-          label: "Add Category"
-          placeholder: "Choose Category"
-          options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
-      - name: "genre"
-        field:
-          element: "multiselect"
-          label: "Add Genre"
-          placeholder: "Choose Genre"
-          options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
+          label: "Title"
+          element: "text"
+          value: "A awesome Headline!"
