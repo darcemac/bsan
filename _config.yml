@@ -51,7 +51,7 @@ prose:
         field:
           element: "text"
           label: "Title"
-          value: "Enter Title"
+          value: "Enter Date Date and Title eg. 2013-08-01-title"
       - name: "category"
         field:
           element: "multiselect"
