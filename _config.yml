@@ -33,7 +33,7 @@ pygments:    true
 
  prose:
 #  rooturl: '_posts'
-  siteurl: 'http://bsan.com.au/'
+  siteurl: 'http://bsan.com.au'
 #  relativeLinks: ''
   media: 'images'
   metadata:
