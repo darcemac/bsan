@@ -32,8 +32,8 @@ lsi:         false
 pygments:    true
 
 prose:
-  rooturl: '_posts/2013'
-  siteurl: 'http://bsan.com.au/'
+  rooturl: '_posts'
+  siteurl: 'http://bsan.com.au'
 #  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'
   metadata:
