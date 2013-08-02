@@ -37,11 +37,6 @@ prose:
   rooturl: "_posts/2013"
   metadata:
     _posts:
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
       - name: "published"
         field:
           label: "Published"
