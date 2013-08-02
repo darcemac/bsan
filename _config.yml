@@ -5,8 +5,8 @@ title: BSAN
 auto: true
 server: false
 baseurl: /
-# permalink: /:year/:month/:day/:title/
-permalink: pretty
+permalink: /:year/:month/:day/:title/
+# permalink: pretty
 markdown: rdiscount
 exclude:
   - .gitignore
@@ -32,21 +32,31 @@ lsi:         false
 pygments:    true
 
 prose:
-#  rooturl: '_posts'
-  siteurl: 'http://bsan.com.au'
+  rooturl: "_posts"
+  siteurl: "http://bsan.com.au"
 #  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
-  media: 'media'
+  media: "images"
   metadata:
     _posts/2013:
       - name: "layout"
         field:
           element: "hidden"
           value: "post"
-#      - name: "title"
-#        field:
-#          element: "text"
-#          label: "Title"
-#          value: "Enter Title"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: "Enter Title"
+      - name: "meta-title"
+        field:
+          element: "text"
+          label: "Meta Title"
+          value: ""
+      - name: "meta-description"
+        field:
+          element: "text"
+          label: "Meta Description" 
+          value: ""
       - name: "category"
         field:
           element: "multiselect"
