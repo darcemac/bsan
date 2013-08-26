@@ -31,20 +31,3 @@ future:      true
 lsi:         false
 pygments:    true
 
-prose:
-  siteurl: "http://bsan.com.au"
-  media: "images"
-  rooturl: "_posts/2013"
-  metadata:
-    _posts:
-      - name: "published"
-        field:
-          label: "Published"
-          element: "checkbox"
-          value: "true"
-      - name: "layout"
-        field:
-          label: "Layout"
-          element: "hidden"
-          value: "post"
-
