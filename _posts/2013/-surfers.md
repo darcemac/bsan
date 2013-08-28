@@ -1,7 +1,7 @@
 ---
 layout: show
 published: false
-title: surfers
+title: "2013-08-28-surfers.md"
 categories: artist
 ---
 
