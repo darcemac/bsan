@@ -30,32 +30,3 @@ destination: ./_site
 future:      true
 lsi:         false
 pygments:    true
-
-
-#prose
-prose:
-  rooturl: "_posts"
-  media: "images"
-  metadata:
-    _posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "show"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
-      - name: "categories"
-        field:
-          element: "select"
-          label: "Select a category"
-          options:
-            - name: "artist"
-              value: "artist"
-            - name: "weekly"
-              value: "weekly"
-            - name: "event"
-              value: "event"
-      
