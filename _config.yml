@@ -28,6 +28,7 @@ future:      true
 lsi:         false
 pygments:    true
 
+# Prose settings
 prose:
   rooturl: '_posts'
   siteurl: 'http://bsan.com.au/'
@@ -57,7 +58,7 @@ prose:
             - name: "Event"
               value: "event"
             - name: "splash"
-     - name: "image"s
+     - name: "images"
         field:
           element: "text"
           label: "Splash image"
