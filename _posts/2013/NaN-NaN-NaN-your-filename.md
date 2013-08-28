@@ -1,7 +1,7 @@
 ---
 layout: blog
 published: false
-title: ""
+title: Surfers
 detail: "this is a test!"
 image: /images/surfers.jpg
 categories: 
