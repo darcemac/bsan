@@ -2,7 +2,7 @@
 layout: blog
 category: blog
 published: false
-title: ""
+title: "2013-08-28-surfers"
 ---
 
 ![](/images/surfers.jpg)
