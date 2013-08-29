@@ -31,7 +31,7 @@ pygments:    true
 # Prose settings
 prose:
   rooturl: '_posts'
-  siteurl: 'http://bsan.com.au/'
+  siteurl: 'http://darcemac.github.io/'
   relativeLinks: ''
   media: 'images'
   metadata:
