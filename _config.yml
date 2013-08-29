@@ -29,37 +29,7 @@ lsi:         false
 pygments:    true
 
 # Prose settings
-#prose:
-#  rooturl: '_posts'
-#  siteurl: 'http://darcemac.github.io/'
-#  relativeLinks: ''
-#  media: 'images'
-#  metadata:
-#    _posts:
-#      - name: "category"
-#        field:
-#          element: "multiselect"
-#          label: "Add Category"
-#          placeholder: "Choose Category"
-#          options:
-#            - name: "Artist"
-#              value: "artist"
-#            - name: "Weekly"
-#              value: "weekly"
-#            - name: "Event"
-#              value: "event"
-#      - name: "title"
-#        field:
-#          element: "text"
-#          label: "Title"
-#          value: ""
-#      - name: "image"
-#        field:
-#          element: "text"
-#          label: "Image"
-#          value: ""
-#      - name: "detail"
-#        field:
-#          element: "text"
-#          label: "Detail"
-#          value: ""
+prose:
+  siteurl: 'http://darcemac.github.io/'
+  relativeLinks: ''
+  media: 'images'
