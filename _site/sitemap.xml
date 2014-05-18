@@ -2,260 +2,204 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>http://bsan.com.au/about/index.html</loc>
+      <loc>/about/</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/archive/index.html</loc>
+      <loc>/archive/</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/contact/index.html</loc>
+      <loc>/contact/</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/index.html</loc>
+      <loc>/</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/sitemap.xml</loc>
+      <loc>/sitemap.xml</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/page2/index.html</loc>
+      <loc>/page2/</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/page3/index.html</loc>
+      <loc>/page3/</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/page4/index.html</loc>
+      <loc>/page4/</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/page5/index.html</loc>
+      <loc>/page5/</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/page6/index.html</loc>
+      <loc>/page6/</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/page7/index.html</loc>
+      <loc>/page7/</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/page2/index.html</loc>
-    </url>
-  
-    <url>
-      <loc>http://bsan.com.au/page3/index.html</loc>
-    </url>
-  
-    <url>
-      <loc>http://bsan.com.au/page4/index.html</loc>
-    </url>
-  
-    <url>
-      <loc>http://bsan.com.au/page5/index.html</loc>
-    </url>
-  
-    <url>
-      <loc>http://bsan.com.au/page6/index.html</loc>
-    </url>
-  
-    <url>
-      <loc>http://bsan.com.au/page7/index.html</loc>
-    </url>
-  
-    <url>
-      <loc>http://bsan.com.au/page2/index.html</loc>
-    </url>
-  
-    <url>
-      <loc>http://bsan.com.au/page3/index.html</loc>
-    </url>
-  
-    <url>
-      <loc>http://bsan.com.au/page4/index.html</loc>
-    </url>
-  
-    <url>
-      <loc>http://bsan.com.au/page5/index.html</loc>
-    </url>
-  
-    <url>
-      <loc>http://bsan.com.au/page6/index.html</loc>
-    </url>
-  
-    <url>
-      <loc>http://bsan.com.au/page7/index.html</loc>
-    </url>
-  
-    <url>
-      <loc>http://bsan.com.au/page2/index.html</loc>
-    </url>
-  
-    <url>
-      <loc>http://bsan.com.au/page3/index.html</loc>
-    </url>
-  
-    <url>
-      <loc>http://bsan.com.au/page4/index.html</loc>
-    </url>
-  
-    <url>
-      <loc>http://bsan.com.au/page5/index.html</loc>
-    </url>
-  
-    <url>
-      <loc>http://bsan.com.au/page6/index.html</loc>
-    </url>
-  
-    <url>
-      <loc>http://bsan.com.au/page7/index.html</loc>
+      <loc>/page8/</loc>
     </url>
   
   
     <url>
-      <loc>http://bsan.com.au/2013/07/17/everybody-dance-now-mix//</loc>
+      <loc>/2014/05/18/fremantle-port-sunset//</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/2013/07/17/delete-podcast-mix//</loc>
+      <loc>/2014/05/18/beach-sunset-fuji-x100s//</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/2013/06/25/legowelt-deepcast-mix//</loc>
+      <loc>/2014/05/18/beach-sunset-2//</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/2013/06/25/ian-ruhter-american-dream//</loc>
+      <loc>/2013/07/17/everybody-dance-now-mix//</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/2013/06/22/matt-pringle-photography//</loc>
+      <loc>/2013/07/17/delete-podcast-mix//</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/2013/06/21/headrock-valley-beats-darklight//</loc>
+      <loc>/2013/06/25/legowelt-deepcast-mix//</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/2013/06/14/radionasty-electrix-podcast-001//</loc>
+      <loc>/2013/06/25/ian-ruhter-american-dream//</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/2013/06/14/cold-signals//</loc>
+      <loc>/2013/06/22/matt-pringle-photography//</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/2013/05/06/luca-zanier-space-energy//</loc>
+      <loc>/2013/06/21/headrock-valley-beats-darklight//</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/2013/04/29/alan-backdrop-electronic-explorations-mix//</loc>
+      <loc>/2013/06/14/radionasty-electrix-podcast-001//</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/2013/04/18/jd-twitch-Insomnolence-mix//</loc>
+      <loc>/2013/06/14/cold-signals//</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/2013/04/18/abandoned-submarine-base//</loc>
+      <loc>/2013/05/06/luca-zanier-space-energy//</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/2013/04/13/traxx-red-light-radio-mix//</loc>
+      <loc>/2013/04/29/alan-backdrop-electronic-explorations-mix//</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/2013/04/12/convection-live//</loc>
+      <loc>/2013/04/18/jd-twitch-Insomnolence-mix//</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/2013/04/12/convection-convection//</loc>
+      <loc>/2013/04/18/abandoned-submarine-base//</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/2013/04/09/the-martian-sex-in-zero-gravity//</loc>
+      <loc>/2013/04/13/traxx-red-light-radio-mix//</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/2013/04/09/jorge-velez-luminous-view//</loc>
+      <loc>/2013/04/12/convection-live//</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/2013/03/07/ben-ufo-lwe-mix//</loc>
+      <loc>/2013/04/12/convection-convection//</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/2013/03/06/the-human-league-4jg//</loc>
+      <loc>/2013/04/09/the-martian-sex-in-zero-gravity//</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/2013/03/05/von-spar-scotch-chablis//</loc>
+      <loc>/2013/04/09/jorge-velez-luminous-view//</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/2013/03/05/light-leak//</loc>
+      <loc>/2013/03/07/ben-ufo-lwe-mix//</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/2013/02/21/ww2-bunkers//</loc>
+      <loc>/2013/03/06/the-human-league-4jg//</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/2013/02/19/robert-heinlein//</loc>
+      <loc>/2013/03/05/von-spar-scotch-chablis//</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/2013/02/19/ital-tek-nebula-dance//</loc>
+      <loc>/2013/03/05/light-leak//</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/2013/02/19/bauhaus-building//</loc>
+      <loc>/2013/02/21/ww2-bunkers//</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/2013/02/16/john-beltram-earthandnightfall//</loc>
+      <loc>/2013/02/19/robert-heinlein//</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/2013/02/16/darce-techno-the-way-the-used-to-mix//</loc>
+      <loc>/2013/02/19/ital-tek-nebula-dance//</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/2013/02/15/guygerber-clarion//</loc>
+      <loc>/2013/02/19/bauhaus-building//</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/2013/02/13/sci-fi-mashup//</loc>
+      <loc>/2013/02/16/john-beltram-earthandnightfall//</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/2013/02/13/larry-bertlemann//</loc>
+      <loc>/2013/02/16/darce-techno-the-way-the-used-to-mix//</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/2013/02/11/ur-the-final-frontier//</loc>
+      <loc>/2013/02/15/guygerber-clarion//</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/2013/02/11/dan-mcpharlin//</loc>
+      <loc>/2013/02/13/sci-fi-mashup//</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/2013/02/11/as-one-amalia//</loc>
+      <loc>/2013/02/13/larry-bertlemann//</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/2013/02/10/brendon-moeller//</loc>
+      <loc>/2013/02/11/ur-the-final-frontier//</loc>
     </url>
   
     <url>
-      <loc>http://bsan.com.au/2013/02/10/advanced-ballistic-missile//</loc>
+      <loc>/2013/02/11/dan-mcpharlin//</loc>
+    </url>
+  
+    <url>
+      <loc>/2013/02/11/as-one-amalia//</loc>
+    </url>
+  
+    <url>
+      <loc>/2013/02/10/brendon-moeller//</loc>
+    </url>
+  
+    <url>
+      <loc>/2013/02/10/advanced-ballistic-missile//</loc>
     </url>
   
 </urlset>

@@ -2,8 +2,6 @@
 # will be appended to the URL following {{page.title}} |
 
 title: BSAN
-auto: true
-server: false
 baseurl: /
 # permalink: /:year/:month/:day/:title/
 permalink: pretty
@@ -22,7 +20,7 @@ flickr:
 paginate: 5
 
 safe:        false
-server_port: 4000
+port: 4000
 
 source:      .
 destination: ./_site
@@ -30,29 +28,3 @@ destination: ./_site
 future:      true
 lsi:         false
 pygments:    true
-
-prose:
-  rooturl: '_posts'
-  siteurl: 'http://bsan.com.au/'
-  relativeLinks: ''
-  media: 'images'
-  metadata:
-    _posts:
-      - name: "published"
-        field:
-          label: "Published"
-          element: "checkbox"
-          value: "true"
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-      - name: "date"
-        field:
-          element: "text"
-          label: "Date: YYYY-MM-DD HH:MM"
-          value: CURRENT_DATETIME

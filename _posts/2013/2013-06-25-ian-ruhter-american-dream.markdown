@@ -20,7 +20,7 @@ He uses an oldschool technique of collodiol silver wetplates to capture images a
 
 ![Ian Ruther](/images/posts/2013/ian-ruther/ir_4.jpg)
 
-<iframe src="http://player.vimeo.com/video/39578584?byline=0" width="520" height="292" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="http://player.vimeo.com/video/39578584?byline=0" width="620" height="348" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 
 [Ian Ruhter](http://ianruhter.tumblr.com/)
