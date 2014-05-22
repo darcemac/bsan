@@ -1,9 +1,5 @@
-# Sitewide configuration settings. Set `title` to the site title, which
-# will be appended to the URL following {{page.title}} |
-
 title: BSAN
 baseurl: /
-# permalink: /:year/:month/:day/:title/
 permalink: pretty
 markdown: rdiscount
 exclude:
@@ -28,3 +24,9 @@ destination: ./_site
 future:      true
 lsi:         false
 pygments:    true
+
+# Prose settings
+prose:
+  siteurl: 'http://darcemac.github.io/'
+  relativeLinks: ''
+  media: 'images'
