@@ -5,36 +5,8 @@ BSAN - Blog
 Screen Styles
 
 *************************************************
-/* Base - Skeleton V1.2 */
+/*
 
-/* #Reset & Basics (Inspired by E. Meyers)
-================================================== */
-/*html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video { margin: 0; padding: 0; border: 0; font-size: 100%; font: inherit; vertical-align: baseline; }
-article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block }
-body { line-height: 1 }
-ol, ul { list-style: none }*/
-/* #Basic Styles
-================================================== */
-body { background: #fff; font: 14px/21px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; color: #444; -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */ -webkit-text-size-adjust: 100%; }
-/* #Typography
-================================================== */
-h1, h2, h3, h4, h5, h6 { color: #181818; font-family: "Georgia", "Times New Roman", serif; font-weight: normal; }
-h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit }
-p { margin: 0 0 20px 0 }
-p img { margin: 0 }
-/* #Links
-================================================== */
-a, a:visited { color: #333; text-decoration: underline; outline: 0; }
-a:hover, a:focus { color: #000 }
-p a, p a:visited { line-height: inherit }
-/* #Lists
-================================================== */
-ul, ol { margin-bottom: 20px }
-ul { list-style: none outside }
-li { line-height: 18px; margin-bottom: 12px; }
-/* #Images
-================================================== */
-img.scale-with-grid { max-width: 100%; height: auto; }
 
 /* Grid - Skeleton V1.2 */
 
@@ -47,7 +19,7 @@ img.scale-with-grid { max-width: 100%; height: auto; }
 
 /* #Tablet (Portrait)
 ================================================== */
-/* Note: Design for a width of 768px */
+/* width of 768px */
 @media only screen and (min-width: 768px) and (max-width: 959px) { 
     .container { width: 768px }
     .container .column, .container .columns { margin-left: 10px; margin-right: 10px; }
@@ -55,7 +27,7 @@ img.scale-with-grid { max-width: 100%; height: auto; }
 }
 /*  #Mobile (Portrait)
 ================================================== */
-/* Note: Design for a width of 320px */
+/* width of 320px */
 @media only screen and (max-width: 767px) { 
     .container { width: 300px }
     .container .columns, .container .column { margin: 0 } 
@@ -63,7 +35,7 @@ img.scale-with-grid { max-width: 100%; height: auto; }
 }
 /* #Mobile (Landscape)
 ================================================== */
-/* Note: Design for a width of 480px */
+/* width of 480px */
 @media only screen and (min-width: 480px) and (max-width: 767px) { 
     .container { width: 420px }
     .container .columns, .container .column { margin: 0 }
@@ -71,13 +43,11 @@ img.scale-with-grid { max-width: 100%; height: auto; }
 }
 /* #Clearing
 ================================================== */
-/* Self Clearing Goodness */
+/* self clearing goodness */
 .container:after { content: "\0020"; display: block; height: 0; clear: both; visibility: hidden; }
-/* You can also use a <br class="clear" /> to clear columns */
 .clearfix:before, .clearfix:after, .row:before, .row:after { content: '\0020'; display: block; overflow: hidden; visibility: hidden; width: 0; height: 0; }
 .row:after, .clearfix:after { clear: both }
 .row, .clearfix { zoom: 1 }
-/* You can also use a <br class="clear" /> to clear columns */
 .clear { clear: both; display: block; overflow: hidden; visibility: hidden; width: 0; height: 0; }
 
 /* #Font face
@@ -95,11 +65,12 @@ ol, ul { list-style: none }
 ================================================== */
 img, embed, object, video { max-width: 100%; height: auto; }
 img { background: url(../img/checker.png) }
-@font-face { font-weight: normal; font-style: normal; }
 html { min-height: 101%; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; -webkit-text-size-adjust: 100%; }
 body { background: url('../img/background_repeater.jpg') fixed; font-family: "DIN", Helvetica, Arial, sans-serif; font-size: 14px; line-height: 22px; color: #FFF; height: 100%; text-align: center; -webkit-font-smoothing: antialiased; }
 ::-moz-selection { color: #fff }
 ::selection { color: #fff }
+
+img.scale-with-grid { max-width: 100%; height: auto; }
 
 /* #Site Styles
 ================================================== */
