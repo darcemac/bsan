@@ -19,4 +19,4 @@ Inspired me to search out and explore that other sub genre of techno called dub 
 
 ![Brendon Moeller](/images/posts/2013/bm/brendanmoeller.jpg)
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F36099062&show_artwork=true"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/35808570&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true"></iframe>

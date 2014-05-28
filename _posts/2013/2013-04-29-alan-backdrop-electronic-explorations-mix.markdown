@@ -16,10 +16,4 @@ This is a mix from the awesome website [Electonic Explorations](http://electroni
 
 Check it out...
 
-<div id="mixcloud_mix">
-<iframe width="520" height="390" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2FRob_Booth%2Falan-backdrop-258-electronic-explorations%2F&embed_uuid=c150bcd1-9be9-4cd3-bed3-3dfd6e8e071e&stylecolor=&embed_type=widget_standard" frameborder="0"></iframe>
-</div>
-
-<div id="youtube_mix">
-<iframe width="520" height="390" src="http://www.youtube.com/embed/as3-uBJ1er4" frameborder="0" allowfullscreen></iframe>
-</div>
+<iframe width="100%" height="180" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2FRob_Booth%2Falan-backdrop-258-electronic-explorations%2F&amp;embed_uuid=af5286d0-45e6-41c4-828f-52975cbf4948&amp;replace=0&amp;hide_cover=1&amp;embed_type=widget_standard&amp;hide_tracklist=1" frameborder="0"></iframe><div style="clear: both; height: 3px; width: auto;"></div><p style="display: block; font-size: 11px; font-family: 'Open Sans', Helvetica, Arial, sans-serif; margin: 0px; padding: 3px 4px; color: rgb(153, 153, 153); width: auto;"><a href="http://www.mixcloud.com/Rob_Booth/alan-backdrop-258-electronic-explorations/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=resource_link" target="_blank" style="color:#808080; font-weight:bold;">Alan Backdrop - 258 - Electronic Explorations</a><span> by </span><a href="http://www.mixcloud.com/Rob_Booth/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=profile_link" target="_blank" style="color:#808080; font-weight:bold;">Electronic Explorations</a><span> on </span><a href="http://www.mixcloud.com/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=homepage_link" target="_blank" style="color:#808080; font-weight:bold;"> Mixcloud</a></p><div style="clear: both; height: 3px; width: auto;"></div>

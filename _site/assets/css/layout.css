@@ -1,6 +1,100 @@
+/*
+*************************************************
+
+BSAN - Blog
+Screen Styles
+
+*************************************************
+
+/* Grid based Skeleton V1.2 */
+
+/* #Base 960 Grid
+================================================== */
+.container { position: relative; width: 960px; margin: 0 auto; padding: 0; }
+.container .column, .container .columns { float: left; display: inline; margin-left: 10px; margin-right: 10px; }
+.row { margin-bottom: 20px }
+/* Nested Column Classes */
+.column.alpha, .columns.alpha { margin-left: 0 }
+.column.omega, .columns.omega { margin-right: 0 }
+/* Base Grid */
+.container .one.column, .container .one.columns { width: 40px }
+.container .two.columns { width: 100px }
+.container .three.columns { width: 160px }
+.container .four.columns { width: 220px }
+.container .five.columns { width: 280px }
+.container .six.columns { width: 340px }
+.container .seven.columns { width: 400px }
+.container .eight.columns { width: 460px }
+.container .nine.columns { width: 520px }
+.container .ten.columns { width: 580px }
+.container .eleven.columns { width: 640px }
+.container .twelve.columns { width: 700px }
+.container .thirteen.columns { width: 760px }
+.container .fourteen.columns { width: 820px }
+.container .fifteen.columns { width: 880px }
+.container .sixteen.columns { width: 940px }
+
+/* #Tablet (Portrait)
+================================================== */
+/* Note: Design for a width of 768px */
+@media only screen and (min-width: 768px) and (max-width: 959px) { 
+    .container { width: 768px }
+    .container .column, .container .columns { margin-left: 10px; margin-right: 10px; }
+    .column.alpha, .columns.alpha { margin-left: 0; margin-right: 10px; }
+    .column.omega, .columns.omega { margin-right: 0; margin-left: 10px; }
+    .alpha.omega { margin-left: 0; margin-right: 0; }
+    .container .one.column, .container .one.columns { width: 28px }
+    .container .two.columns { width: 76px }
+    .container .three.columns { width: 124px }
+    .container .four.columns { width: 172px }
+    .container .five.columns { width: 220px }
+    .container .six.columns { width: 268px }
+    .container .seven.columns { width: 316px }
+    .container .eight.columns { width: 364px }
+    .container .nine.columns { width: 412px }
+    .container .ten.columns { width: 460px }
+    .container .eleven.columns { width: 508px }
+    .container .twelve.columns { width: 556px }
+    .container .thirteen.columns { width: 604px }
+    .container .fourteen.columns { width: 652px }
+    .container .fifteen.columns { width: 700px }
+    .container .sixteen.columns { width: 748px }
+    .container .one-third.column { width: 236px }
+    .container .two-thirds.column { width: 492px }
+}
+/*  #Mobile (Portrait)
+================================================== */
+/* Note: Design for a width of 320px */
+@media only screen and (max-width: 767px) { 
+    .container { width: 300px }
+    .container .columns, .container .column { margin: 0 }
+    .container .one.column, .container .one.columns, .container .two.columns, .container .three.columns, .container .four.columns, .container .five.columns, .container .six.columns, .container .seven.columns, .container .eight.columns, .container .nine.columns, .container .ten.columns, .container .eleven.columns, .container .twelve.columns, .container .thirteen.columns, .container .fourteen.columns, .container .fifteen.columns, .container .sixteen.columns, .container .one-third.column, .container .two-thirds.column { width: 300px }
+    /* Offsets */
+    .container .offset-by-one, .container .offset-by-two, .container .offset-by-three, .container .offset-by-four, .container .offset-by-five, .container .offset-by-six, .container .offset-by-seven, .container .offset-by-eight, .container .offset-by-nine, .container .offset-by-ten, .container .offset-by-eleven, .container .offset-by-twelve, .container .offset-by-thirteen, .container .offset-by-fourteen, .container .offset-by-fifteen { padding-left: 0 }
+}
+/* #Mobile (Landscape)
+================================================== */
+/* Note: Design for a width of 480px */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+    .container { width: 420px }
+    .container .columns, .container .column { margin: 0 }
+    .container .one.column, .container .one.columns, .container .two.columns, .container .three.columns, .container .four.columns, .container .five.columns, .container .six.columns, .container .seven.columns, .container .eight.columns, .container .nine.columns, .container .ten.columns, .container .eleven.columns, .container .twelve.columns, .container .thirteen.columns, .container .fourteen.columns, .container .fifteen.columns, .container .sixteen.columns, .container .one-third.column, .container .two-thirds.column { width: 420px }
+}
+/* #Clearing
+================================================== */
+/* Self Clearing Goodness */
+.container:after { content: "\0020"; display: block; height: 0; clear: both; visibility: hidden; }
+/* You can also use a <br class="clear" /> to clear columns */
+.clearfix:before, .clearfix:after, .row:before, .row:after { content: '\0020'; display: block; overflow: hidden; visibility: hidden; width: 0; height: 0; }
+.row:after, .clearfix:after { clear: both }
+.row, .clearfix { zoom: 1 }
+/* You can also use a <br class="clear" /> to clear columns */
+.clear { clear: both; display: block; overflow: hidden; visibility: hidden; width: 0; height: 0; }
+
 /* #Font face
 ================================================== */
 @font-face { font-family: 'DIN'; src: url('../fonts/DIN.eot'); src: local('☺'), url('../fonts/DIN.woff') format('woff'), url('../fonts/DIN.ttf') format('truetype'), url('../fonts/DIN.svg') format('svg'); font-weight: normal; font-style: normal; }
+
 /* #Reset & Basics
 ================================================== */
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video { margin: 0; padding: 0; border: 0; font-size: 100%; font: inherit; vertical-align: baseline; }
@@ -8,6 +102,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 body { line-height: 1 }
 ol, ul { list-style: none }
 table { border-collapse: collapse; border-spacing: 0; }
+
 /* #Basic Styles
 ================================================== */
 img, embed, object, video { max-width: 100%; height: auto; }
@@ -17,6 +112,7 @@ html { min-height: 101%; text-rendering: optimizeLegibility; -webkit-font-smooth
 body { background: url('../img/background_repeater.jpg') fixed; font-family: "DIN", Helvetica, Arial, sans-serif; font-size: 14px; line-height: 22px; color: #FFF; height: 100%; text-align: center; -webkit-font-smoothing: antialiased; }
 ::-moz-selection { color: #fff }
 ::selection { color: #fff }
+
 /* #Site Styles
 ================================================== */
 div.container { padding: 20px 0 }
@@ -35,11 +131,13 @@ div.container { padding: 20px 0 }
         .ch-info p a:hover { color: #fff222; color: rgba(255,242,34, 0.8); }
 .ch-item:hover { box-shadow: inset 0 0 0 110px rgba(200,95,66, 0.4), inset 0 0 0 8px rgba(255,255,255,0.8), 0 1px 2px rgba(0,0,0,0.1) }
     .ch-item:hover .ch-info { opacity: 1; -webkit-transform: scale(1); -moz-transform: scale(1); -o-transform: scale(1); -ms-transform: scale(1); transform: scale(1); }
+
 /* #Links
 ================================================== */
 a, a:visited { color: #FFF; text-decoration: none; outline: 0; -webkit-transition: color 0.3s ease-out 0s; -moz-transition: color 0.3s ease-out 0s; -o-transition: color 0.3s ease-out 0s; transition: color 0.3s ease-out 0s; }
 a:hover, a:focus { color: #1FB4DD }
 p a, p a:visited { line-height: inherit }
+
 /* #Typography
 ================================================== */
 h1, h2, h3, h4, h5, h6 { color: #FFF; font-family: "DIN", Helvetica, Arial, sans-serif; font-weight: normal; font-variant: normal; text-transform: uppercase; }
@@ -54,6 +152,7 @@ p { margin: 0 0 20px; font-style: normal; text-align: left; color: #999; }
 em { font-style: italic }
 strong { font-weight: bold; color: #333; }
 small { font-size: 80% }
+
 /* #Lists
 ================================================== */
 ul, ol { margin-bottom: 20px }
@@ -63,10 +162,12 @@ li { line-height: 18px; margin-bottom: 12px; }
 img, embed, object, video { max-width: 100%; height: auto; }
 /* #Content
 ================================================== */
+
 /* #Video
 ================================================== */
 .bt-video-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; }
     .bt-video-container iframe, .bt-video-container object, .bt-video-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; margin-top: 0; }
+
 /* #Menu
 ================================================== */
 #nav { display: block; text-align: center; margin: 10px auto 0; min-height: 35px; padding: 12px 0 0; text-transform: uppercase; }
@@ -74,6 +175,7 @@ img, embed, object, video { max-width: 100%; height: auto; }
         #nav ul li { display: inline; padding: 0 20px 0; }
             #nav ul li a, nav ul li a:visited, nav ul li a:active { border-radius: 2px 2px 2px 2px; color: #FFF; font-size: 13px; position: relative; text-decoration: none; }
             #nav ul li a:hover, nav ul li a:focus { color: #1FB4DD }
+
 /* #Front page nav pagination
 ================================================== */
 .pagination { height: 36px }
@@ -85,10 +187,12 @@ img, embed, object, video { max-width: 100%; height: auto; }
     .pagination a:hover, .active a { }
 .disabled a, .disabled a:hover, .active a, .active a:hover { color: #999; cursor: default; }
 .disabled a:hover { background-color: transparent }
+
 /* #Post page nav pagination
 ================================================== */
 .pageNavigation { text-align: center }
     .pageNavigation div { margin-top: 20px }
+
 /* #Page (post) Styles
 ================================================== */
 .post { display: block; margin: 30px 0px; }
@@ -96,73 +200,40 @@ img, embed, object, video { max-width: 100%; height: auto; }
     .post h3 { margin: 0px }
     .post p { margin-top: 20px }
 .post-date { color: #999; font-size: 0.8em; margin-bottom: 20px; }
-.divider { border-bottom: 1px dashed #999; width: 400px; margin: 50px auto; }
+.divider { border-bottom: 1px dashed #999; max-width: 400px; margin: 50px auto; }
 .archive-date { color: #999; font-size: 0.8em; margin-bottom: 20px; }
 p.comments-link { padding-top: 20px; text-align: center; }
+
 /* #AddThis Styles
 ================================================== */
 .add-this { padding-top: 40px; padding-bottom: 20px; }
 p.f-like { text-align: center }
+
 /* #Contact Styles
 ================================================== */
 .contact { display: block; margin: 30px 0px; }
     .contact div { display: inline-block; width: 100%; max-width: 520px; }
     .contact h3 { margin: 0px; text-align: center; }
     .contact p { margin-top: 20px; text-align: center; }
+
 /* #To top control
 ================================================== */
 #topcontrol { display: none }
+
 /* #Footer
 ================================================== */
 #footer { background: url(/images/nav/footer_mast.png) no-repeat; margin: 0 auto; height: 58px; padding-top: 20px; }
     #footer p { float: left; color: #d3d3d3; padding: 10px 0 0 5px; }
         #footer p a { color: #d3d3d3 }
     #footer img { text-align: center; background: none; /* remove background image for #totop */ }
+
+
+/* #Shadowbox image gallery style
+================================================== */
+#sb-title-inner,#sb-info-inner,#sb-loading-inner,div.sb-message{font-family:DIN;color:#abaaa9;text-transform:uppercase}#sb-title-inner em{font-family:Georgia;text-transform:none;font-style:italic;font-size:.83em}#sb-container{position:fixed;top:0;left:0;z-index:999;text-align:left;visibility:hidden;display:none;margin:0;padding:0}#sb-overlay{position:relative;height:100%;width:100%}#sb-wrapper{position:absolute;visibility:hidden;width:100px}#sb-wrapper-inner{position:relative;border:0 solid #303030;overflow:hidden;height:100px}#sb-body-inner{position:absolute;height:100%;width:100%}#sb-player.html{height:100%;overflow:auto}#sb-body img{border:none}#sb-loading-inner{position:absolute;font-size:18px;line-height:24px;height:24px;top:50%;margin-top:-12px;width:100%;text-align:center;color:#72706f}#sb-loading-inner span{background:url(../img/loading.gif) no-repeat;padding-left:34px;display:inline-block}#sb-body,#sb-loading{position:relative;height:100%}#sb-title,#sb-info{position:relative;overflow:hidden;margin:0;padding:0}#sb-title,#sb-title-inner{height:26px;line-height:26px}#sb-title-inner{font-size:16px}#sb-info,#sb-info-inner{height:20px;line-height:20px}#sb-info-inner{font-size:12px}#sb-nav{float:right;height:16px;width:45%;padding:2px 0}#sb-nav a{display:block;float:right;height:16px;width:16px;margin-left:3px;cursor:pointer;background-repeat:no-repeat}#sb-nav-close{background-image:url(../img/close.png)}#sb-nav-next{background-image:url(../img/next.png)}#sb-nav-previous{background-image:url(../img/previous.png)}#sb-nav-play{background-image:url(../img/play.png)}#sb-nav-pause{background-image:url(../img/pause.png)}#sb-counter{float:left;width:45%}#sb-counter a{text-decoration:none;cursor:pointer;color:#fff;padding:0 4px 0 0}#sb-counter a.sb-counter-current{text-decoration:underline}div.sb-message{font-size:12px;text-align:center;padding:10px}div.sb-message a:link,div.sb-message a:visited{color:#fff;text-decoration:underline}
+
+
 /* #Media Queries
 ================================================== */
 /* Standard 1024 (devices and browsers) */
-@media only screen and (min-width: 1440px) { 
-    #mixcloud_mix { display: block }
-    /* show mixcloud mix */
-    #youtube_mix { display: none }
-    /* hide you-tube mix */
-}
-/* Standard 1280 (devices and browsers) */
-@media only screen and (min-width: 1280px) { 
-    #mixcloud_mix { display: block }
-    /* show mixcloud mix */
-    #youtube_mix { display: none }
-    /* hide you-tube mix */
-}
-/* Smaller than standard 960 (devices and browsers) */
-@media only screen and (min-width: 959px) { 
-    #mixcloud_mix { display: block }
-    /* show mixcloud mix */
-    #youtube_mix { display: none }
-    /* hide you-tube mix */
-}
-/* Tablet Portrait size to standard 960 (devices and browsers) */
-@media only screen and (min-width: 768px) and (max-width: 959px) { 
-    #mixcloud_mix { display: block }
-    /* show mixcloud mix */
-    #youtube_mix { display: none }
-    /* hide you-tube mix */
-}
-/* All Mobile Sizes (devices and browser) */
-@media only screen and (max-width: 767px) { 
-    #mixcloud_mix { display: none }
-    /* hide mixcloud mix */
-    #youtube_mix { display: block }
-}
-/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
-@media only screen and (min-width: 480px) and (max-width: 767px) { 
-    #mixcloud_mix { display: none }
-    /* hide mixcloud mix */
-    #youtube_mix { display: block }
-}
-/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
-@media only screen and (max-width: 479px) { 
-    #mixcloud_mix { display: none }
-    /* hide mixcloud mix */
-    #youtube_mix { display: block }
-}
+
